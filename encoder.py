@@ -51,4 +51,4 @@ with Image.open(im) as ima:
 
             px[i,j] = (r,g,b)
 
-    image.save('risultato.png')
+    image.save('result.png')
